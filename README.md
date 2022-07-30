@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ViloriaUrdaneta/ViloriaUrdaneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ## Contenido General
 ## Demo (contexto de que hace tu aplicacion o codigo)
@@ -25,6 +21,11 @@ Here are some ideas to get you started:
 ## Tips (curiosidades, bibliografias, teoria)
   - @Controller: Esta anotacion posibilita ga creacion de un controlador para la api rest por http.
 
+
+<!--
+**ViloriaUrdaneta/ViloriaUrdaneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
