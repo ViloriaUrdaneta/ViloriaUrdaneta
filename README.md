@@ -14,6 +14,9 @@
   
 ##  Base de datos relacionales
   - Lenguaje SQL
+
+##  HTML y CSS
+  - Manejo y conocimiento de Bootstrap
   
 
 
