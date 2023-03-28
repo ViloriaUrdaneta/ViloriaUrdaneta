@@ -1,24 +1,20 @@
 ### Hi there 👋
 
 
-## Conocimientos generales
-## Java 8+
-  - Aplicación de conceptos SOLID.
-  - Manejo y aplicación de Herencia y Polimorfismo.
-  - Desarrollo enfocado a la interfaz y no a la implementación.
-  - Programación en Java usando buenas prácticas.
-  
-## Spring
-  - Uso de Spring con inyección de dependencias
-  - Manejo de dependencias con Maven
-  
-##  Base de datos relacionales
-  - Lenguaje SQL
+## technological stack
 
-##  HTML y CSS
-  - Manejo y conocimiento de Bootstrap
+### Languages:
+  - JavaScript
+  - Java
   
-
+### Frameworks
+  - Express
+  - React
+  - Spring boot
+  
+### Databases
+  - Oracle, MySQL, PostgreSQL
+  - MongoDB
 
 
 <!--
