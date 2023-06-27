@@ -5,6 +5,7 @@
 
 ### Languages:
   - JavaScript
+  - TypeScript
   - Java
   
 ### Frameworks
