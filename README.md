@@ -1,21 +1,13 @@
 ### Hi there 👋
 
 
-## technological stack
-
-### Languages:
-  - JavaScript
-  - TypeScript
-  - Java
-  
-### Frameworks
-  - Express
-  - React
-  - Spring boot
-  
-### Databases
-  - Oracle, MySQL, PostgreSQL
-  - MongoDB
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning how to be my better version
+- 👯 I’m looking to collaborate on my own bussines
+- 💬 Ask me about Atlético de Madrid
+- 📫 How to reach me: say my name 3 times
+- 😄 Pronouns: I
+- ⚡ Fun fact: LOL
 
 
 <!--
